@@ -1,0 +1,130 @@
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.exe.config
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.csprojResolveAssemblyReference.cache
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\MainWindow.baml
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\MainWindow.g.cs
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\App.g.cs
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall_MarkupCompile.cache
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.g.resources
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.Cache
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.exe
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.pdb
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\PrecisionTimer.dll
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\PrecisionTimer.pdb
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.exe
+R:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.pdb
+Q:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.exe.config
+Q:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.exe
+Q:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.pdb
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.exe.config
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.exe
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.pdb
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.exe
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.pdb
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\PrecisionTimer.dll
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\PrecisionTimer.pdb
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.csprojResolveAssemblyReference.cache
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\MainWindow.baml
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\MainWindow.g.cs
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\App.g.cs
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall_MarkupCompile.cache
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.g.resources
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.Cache
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.exe.config
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.exe
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.pdb
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.exe.config
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.exe
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.pdb
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.exe
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.pdb
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\PrecisionTimer.dll
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\PrecisionTimer.pdb
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.csprojResolveAssemblyReference.cache
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\MainWindow.baml
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\MainWindow.g.cs
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\App.g.cs
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall_MarkupCompile.cache
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.g.resources
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+J:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.Cache
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.exe.config
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.exe
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.pdb
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.exe
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.pdb
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\PrecisionTimer.dll
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\PrecisionTimer.pdb
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.csprojResolveAssemblyReference.cache
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\MainWindow.baml
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\MainWindow.g.cs
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\App.g.cs
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall_MarkupCompile.cache
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.g.resources
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+H:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.Cache
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.exe
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.pdb
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\PrecisionTimer.dll
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\PrecisionTimer.pdb
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.csprojResolveAssemblyReference.cache
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\MainWindow.baml
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\MainWindow.g.cs
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\App.g.cs
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall_MarkupCompile.cache
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.g.resources
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+P:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.Cache
+M:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\bin\Debug\BouncingBall.exe.config
+M:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.exe
+M:\CSE483\VCStudio\WindowsProgramming\WPF Samples\BouncingBall\obj\Debug\BouncingBall.pdb
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\obj\Debug\BouncingBall.csprojAssemblyReference.cache
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\obj\Debug\MainWindow.baml
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\obj\Debug\MainWindow.g.cs
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\obj\Debug\App.g.cs
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\obj\Debug\BouncingBall_MarkupCompile.cache
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\obj\Debug\BouncingBall.g.resources
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\obj\Debug\BouncingBall.exe
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\obj\Debug\BouncingBall.pdb
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\bin\Debug\BouncingBall.exe.config
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\bin\Debug\BouncingBall.exe
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\bin\Debug\BouncingBall.pdb
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\bin\Debug\PrecisionTimer.dll
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\bin\Debug\PrecisionTimer.pdb
+\\hd.ad.syr.edu\03\20aa73\Documents\Desktop\CSE 483\Week 7\BouncingBall(1)\BouncingBall\obj\Debug\BouncingBall.csproj.CopyComplete
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\bin\Debug\BouncingBall.exe.config
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\bin\Debug\BouncingBall.exe
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\bin\Debug\BouncingBall.pdb
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\bin\Debug\PrecisionTimer.pdb
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\obj\Debug\BouncingBall.csprojAssemblyReference.cache
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\obj\Debug\MainWindow.baml
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\obj\Debug\MainWindow.g.cs
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\obj\Debug\App.g.cs
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\obj\Debug\BouncingBall_MarkupCompile.cache
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\obj\Debug\BouncingBall.g.resources
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\obj\Debug\BouncingBall.csproj.CopyComplete
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\obj\Debug\BouncingBall.exe
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\BouncingBall\obj\Debug\BouncingBall.pdb
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\bin\Debug\BouncingBall.exe.config
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\bin\Debug\BouncingBall.exe
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\bin\Debug\BouncingBall.pdb
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\bin\Debug\PrecisionTimer.pdb
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\obj\Debug\BouncingBall.csprojAssemblyReference.cache
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\obj\Debug\MainWindow.baml
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\obj\Debug\MainWindow.g.cs
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\obj\Debug\App.g.cs
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\obj\Debug\BouncingBall_MarkupCompile.cache
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\obj\Debug\BouncingBall.g.resources
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\obj\Debug\BouncingBall.Properties.Resources.resources
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\obj\Debug\BouncingBall.csproj.CopyComplete
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\obj\Debug\BouncingBall.exe
+\\hd.ad.syr.edu\02\e9393a\Documents\Desktop\Sam and Sam's Paddle Battle\obj\Debug\BouncingBall.pdb
